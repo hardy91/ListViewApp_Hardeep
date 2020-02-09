@@ -1,0 +1,4 @@
++ jsdom@16.1.0
+added 45 packages from 75 contributors and audited 2019 packages in 6.133s
+found 14 vulnerabilities (4 low, 3 moderate, 6 high, 1 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
