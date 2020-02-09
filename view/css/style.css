@@ -7,3 +7,10 @@ ul {
  float:right;
  margin-right:60%;
 }
+li:nth-child(3n){
+    color:red
+}
+
+li{
+    color: black;
+}
